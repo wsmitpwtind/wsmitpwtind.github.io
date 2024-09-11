@@ -1,15 +1,15 @@
-[![](https://github.com/walleeva2018/walleeva2018/blob/main/a%20(2)%20(1).gif?raw=true)]<!-- If you want the template for my gif, email me! -->
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rafi!;I'm+a+learning+developer...;CRAZY+fan+of+web3,+cloud;And+I'm+a+workaholic+person;looking+to+contribute;into+myorganization,+OS)](https://git.io/typing-svg)
 
-<img src="https://profile-counter.glitch.me/walleeva2018/count.svg">
+<img src="https://profile-counter.glitch.me/wsmitpwtind/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/walleeva2018.svg?style=social&label=Followers)](https://github.com/walleeva2018?tab=followers)
 
 ### Here's my github stats:
 
 ![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=wsmitpwtind&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walleeva2018&theme=radical)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wsmitpwtind&theme=radical)](https://git.io/streak-stats) 
 [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wsmitpwtind&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 [![trophy](https://github-profile-trophy.vercel.app/?username=wsmitpwtind)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -84,22 +84,22 @@
 
 ### Some of my cool public repositories (not forks):
 
-<a href="https://github.com/walleeva2018/ML">
+<a href="https://github.com/wsmitpwtind/ML">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsmitpwtind&repo=ML&theme=onedark" />
 </a>  
 
-<a href="https://github.com/walleeva2018/Bangla-desktop-Voice-assistance">
+<a href="https://github.com/wsmitpwtind/Bangla-desktop-Voice-assistance">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsmitpwtind&repo=Bangla-desktop-Voice-assistance&theme=onedark" />
 </a>  
 
-<a href="https://github.com/walleeva2018/Web">
+<a href="https://github.com/wsmitpwtind/Web">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsmitpwtind&repo=Web&theme=onedark" />
 </a>  
 
-<a href="https://github.com/walleeva2018/Assistance-for-Blind-People">
+<a href="https://github.com/wsmitpwtind/Assistance-for-Blind-People">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsmitpwtind&repo=Assistance-for-Blind-People&theme=onedark" />
 </a>  
@@ -108,7 +108,7 @@
 
 
 ### Thank you for visiting my profile 🤓 Here is a midjourney image of my everyday situation 
-[![](https://github.com/walleeva2018/walleeva2018/blob/main/325166505_1643785179424836_8598779591188349048_n.jpg?raw=true)]
+[![](https://github.com/wsmitpwtind/wsmitpwtind/blob/main/325166505_1643785179424836_8598779591188349048_n.jpg?raw=true)]
 
 ### Feel free to fork and 🌟 this repo!!
 <h2>Connect with me!</h2>
