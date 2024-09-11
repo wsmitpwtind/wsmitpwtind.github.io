@@ -8,10 +8,10 @@
 
 ### Here's my github stats:
 
-![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=walleeva2018&show_icons=true&theme=radical) 
+![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=wsmitpwtind&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walleeva2018&theme=radical)](https://git.io/streak-stats) 
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=walleeva2018&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
-[![trophy](https://github-profile-trophy.vercel.app/?username=walleeva2018)](https://github.com/ryo-ma/github-profile-trophy)
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wsmitpwtind&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wsmitpwtind)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Languages I'm good at
@@ -68,7 +68,7 @@
 
 <a href="https://github.com/walleeva2018/problem-tutorials">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=problem-tutorials&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsmitpwtind&repo=problem-tutorials&theme=onedark" />
 </a>  
 
 
@@ -86,22 +86,22 @@
 
 <a href="https://github.com/walleeva2018/ML">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsmitpwtind&repo=ML&theme=onedark" />
 </a>  
 
 <a href="https://github.com/walleeva2018/Bangla-desktop-Voice-assistance">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Bangla-desktop-Voice-assistance&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsmitpwtind&repo=Bangla-desktop-Voice-assistance&theme=onedark" />
 </a>  
 
 <a href="https://github.com/walleeva2018/Web">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Web&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsmitpwtind&repo=Web&theme=onedark" />
 </a>  
 
 <a href="https://github.com/walleeva2018/Assistance-for-Blind-People">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Assistance-for-Blind-People&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsmitpwtind&repo=Assistance-for-Blind-People&theme=onedark" />
 </a>  
 
 
@@ -111,7 +111,6 @@
 [![](https://github.com/walleeva2018/walleeva2018/blob/main/325166505_1643785179424836_8598779591188349048_n.jpg?raw=true)]
 
 ### Feel free to fork and 🌟 this repo!!
-
 <h2>Connect with me!</h2>
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zubair-ahmed-rafi-95ba3322a/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/mcqueen2837)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100015181156377)
