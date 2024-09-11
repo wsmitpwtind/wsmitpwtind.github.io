@@ -17,7 +17,7 @@
 - 😄 Pronouns: He/Him
 - 📝 I regulary write something for MOIVES/GAMES
 - 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
-- ⚡ Enjoy! :)
+- ⚡ wsmitpwtind7@gmail.com :)
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
